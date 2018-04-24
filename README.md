@@ -20,9 +20,9 @@ All project requirements are included in requirements.txt file
 platform linux -- Python 3.5.2, pytest-3.5.0, py-1.5.3, pluggy-0.6.0
 rootdir: /home/skomlev/Documentos/github/rental/test, inifile:
 collected 9 items                                                                                                                              
-test_price.py ...									[ 33%]
-test_promotion.py ...								[ 77%]
-test_rental.py ..									[100%]
+test_promotion.py ...                                [ 44%]
+test_rent.py ...                                     [ 66%]
+test_rental.py ...                                   [100%]
 
 =========================================================== 9 passed in 0.04 seconds ============================================================
 
